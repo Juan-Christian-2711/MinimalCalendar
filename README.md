@@ -1,6 +1,6 @@
 # MinimalCalendar
 
-##A Simple calendar app 
+## A Simple calendar app 
 
 Most calendar apps are too hectic for my taste
 
